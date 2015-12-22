@@ -1,2 +1,2 @@
-# CpSc6160_Game_Mario
+# CpSc6160 Game: Mario
 Mario game created using C++ and SDL
