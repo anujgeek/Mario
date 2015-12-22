@@ -1,5 +1,6 @@
 # Game: Mario
 Final project for CpSc6160 Data-driven 2D Game Development
+
 Created using C++ and SDL
 
 Created by: Anuj Agrawal (Clemson Email Address: anuja@clemson.edu)
