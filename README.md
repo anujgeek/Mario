@@ -5,7 +5,7 @@ Class website: http://people.cs.clemson.edu/~malloy/courses/416-2015/
 
 Final project for:
 <br>
-Clemson University CpSc6160 Data-driven 2D Game Development
+Clemson University CpSc 6160 Data-driven 2D Game Development
 <br>
 Created using C++ and SDL
 
