@@ -1,0 +1,330 @@
+<?xml version = "1.0"?>
+<GameData>
+  <!-- screenTitle is also used to identify you and your animation. 
+     So make sure to include your name as part of the screenTitle -->
+  <screenTitle>Anuj Agrawal presents - MARIO</screenTitle>
+  <maxStringSize>50</maxStringSize>
+
+  <frameCap>100</frameCap>
+  <framesAreCapped>true</framesAreCapped>
+
+  <frameMax>200</frameMax>
+  <username>anuja</username>
+
+  <view>
+    <width>854</width>
+    <height>480</height>
+  </view>
+
+  <hud>
+    <width>200</width>
+    <height>200</height>
+    <loc x="10" y="10"/>
+  </hud>
+
+  <world>
+    <width>2000</width>
+    <height>840</height>
+  </world>
+
+  <clock>
+    <fpsLoc x="20" y="35"/>
+    <secondsLoc x="20" y="50"/>
+  </clock>
+
+  <back>
+    <file>images/bg.jpg</file>
+    <red>0</red>
+    <green>0</green>
+    <blue>0</blue>
+    <factor>1</factor>
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>1200</width>
+    <height>840</height>
+    <transparency>false</transparency>
+  </back>
+
+  <front>
+    <file>images/clouds.png</file>
+    <red>0</red>
+    <green>0</green>
+    <blue>0</blue>
+    <factor>2</factor>
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>1200</width>
+    <height>840</height>
+    <transparency>false</transparency>
+  </front>
+
+  <font name="font">
+    <file>font/dyslexic-bold.otf</file>
+    <size>16</size>
+    <red>0</red>
+    <green>0</green>
+    <blue>0</blue>
+    <unused>0</unused>
+  </font>
+
+  <player>
+    <startLoc x="100" y="375"/>
+
+    <frames>4</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <speedX>250</speedX>
+    <speedY>150</speedY>
+    <transparency>true</transparency>
+
+    <Chunks>25</Chunks>
+    <Distance>120</Distance>
+    <ChunkDistance>200</ChunkDistance>
+    <ChunkSize>12</ChunkSize>
+    <ChunkMinLife>1000</ChunkMinLife>
+    <ChunkMaxLife>4000</ChunkMaxLife>
+  </player>
+
+  <playerLeft>
+    <file>images/MarioLeft.png</file>
+    <startLoc x="0" y="0"/>
+
+    <frames>4</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>64</height>
+    <speedX>0</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </playerLeft>
+
+  <playerRight>
+    <file>images/MarioRight.png</file>
+    <startLoc x="0" y="0"/>
+
+    <frames>4</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>64</height>
+    <speedX>0</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </playerRight>
+
+  <Enemy>
+    <file>images/Enemy.png</file>
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <startLoc x="1000" y="410"/>
+    <speedX>-200</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+
+    <Chunks>25</Chunks>
+    <Distance>500</Distance>
+    <ChunkDistance>100</ChunkDistance>
+    <ChunkSize>12</ChunkSize>
+    <ChunkMinLife>1000</ChunkMinLife>
+    <ChunkMaxLife>4000</ChunkMaxLife>
+  </Enemy>
+
+  <Trophy>
+    <file>images/Trophy.png</file>
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>128</width>
+    <height>256</height>
+    <startLoc x="1500" y="175"/>
+    <speedX>0</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+
+    <Chunks>100</Chunks>
+    <Distance>100</Distance>
+    <ChunkDistance>200</ChunkDistance>
+    <ChunkSize>50</ChunkSize>
+    <ChunkMinLife>1000</ChunkMinLife>
+    <ChunkMaxLife>4000</ChunkMaxLife>
+  </Trophy>
+
+  <Bird>
+    <startLoc x="100" y="50"/>
+
+    <frames>2</frames>
+    <frameInterval>50</frameInterval>
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>64</width>
+    <height>64</height>
+    <speedX>100</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </Bird>
+
+  <BirdLeft>
+    <file>images/BirdLeft.png</file>
+    <startLoc x="0" y="0"/>
+
+    <frames>2</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>64</width>
+    <height>64</height>
+    <speedX>0</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </BirdLeft>
+
+  <BirdRight>
+    <file>images/BirdRight.png</file>
+    <startLoc x="0" y="0"/>
+
+    <frames>2</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>64</width>
+    <height>64</height>
+    <speedX>0</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </BirdRight>
+
+  <BirdSmall>
+    <startLoc x="100" y="25"/>
+
+    <frames>2</frames>
+    <frameInterval>50</frameInterval>
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <speedX>50</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </BirdSmall>
+
+  <BirdSmallLeft>
+    <file>images/BirdSmallLeft.png</file>
+    <startLoc x="0" y="0"/>
+
+    <frames>2</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <speedX>0</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </BirdSmallLeft>
+
+  <BirdSmallRight>
+    <file>images/BirdSmallRight.png</file>
+    <startLoc x="0" y="0"/>
+
+    <frames>2</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <speedX>0</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </BirdSmallRight>
+
+  <spinstar>
+    <file>images/myspinstar.png</file>
+    <startLoc x="120" y="140"/>
+
+    <frames>4</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <speedX>-200</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </spinstar>
+
+  <bone>
+    <startLoc x="120" y="140"/>
+
+    <frames>4</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <speedX>-200</speedX>
+    <speedY>0</speedY>
+    <transparency>true</transparency>
+  </bone>
+
+  <boneway1>
+    <file>images/bone1.png</file>
+    <startLoc x="120" y="140"/>
+
+    <frames>4</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <speedX>-200</speedX>
+    <speedY>200</speedY>
+    <transparency>true</transparency>
+  </boneway1>
+
+  <boneway2>
+    <file>images/bone2.png</file>
+    <startLoc x="120" y="140"/>
+
+    <frames>4</frames>
+    <frameInterval>50</frameInterval>
+
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <speedX>-200</speedX>
+    <speedY>200</speedY>
+    <transparency>true</transparency>
+  </boneway2>
+
+  <star>
+    <file>images/star.png</file>
+    <srcX>0</srcX>
+    <srcY>0</srcY>
+    <width>32</width>
+    <height>32</height>
+    <startLoc x="320" y="240"/>
+    <speedX>175</speedX>
+    <speedY>175</speedY>
+    <transparency>true</transparency>
+  </star>
+
+
+</GameData>
