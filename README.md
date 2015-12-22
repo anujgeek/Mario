@@ -8,9 +8,7 @@ Class website: http://people.cs.clemson.edu/~malloy/courses/416-2015/
 
 Demo:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lzHiHssj1jk" target="_blank"><img src="http://img.youtube.com/vi/lzHiHssj1jk/0.jpg" alt="MARIO" width="560" height="315" border="10"/></a>
-
-[![MARIO](http://img.youtube.com/vi/lzHiHssj1jk/0.jpg)](http://www.youtube.com/watch?v=lzHiHssj1jk)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lzHiHssj1jk" target="_blank"><img src="http://img.youtube.com/vi/lzHiHssj1jk/0.jpg" alt="MARIO" border="10"/></a>
 
 Project description:
 
