@@ -4,19 +4,22 @@ Created by: Anuj Agrawal (Email: anuja@clemson.edu)
 Class website: http://people.cs.clemson.edu/~malloy/courses/416-2015/
 
 Final project for:
-Clemson University CpSc6160 Data-driven 2D Game Development  Created using C++ and SDL
+<br>
+Clemson University CpSc6160 Data-driven 2D Game Development
+<br>
+Created using C++ and SDL
 
-Demo:
+## Demo:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lzHiHssj1jk" target="_blank"><img src="http://img.youtube.com/vi/lzHiHssj1jk/0.jpg" alt="MARIO" border="10"/></a>
 
-Project description:
+## Project description:
 
 Its a Mario game. The player class (Mario) is derived from TwoWayMultiSprite.
 Mario is always jumping. Mario can either stand still in x-direction (key s)
 or move continuously in either directions (keys a or d).
 
-AI- Enemies always follow Mario.
+AI - Enemies always follow Mario.
 Enemies explode when they come in contact with Mario.
 
 Birds (ducks) are also implemented as TwoWayMultiSprite. Bigger birds are in front
