@@ -35,6 +35,8 @@ Mario wins after colliding with the tropy at the end of the game.
 
 Resources:
 
+Sprites:
+
 Mario sprite from: http://www.spriters-resource.com/
 <br>
 Duck sprite from: http://all-free-download.com
@@ -42,6 +44,6 @@ Duck sprite from: http://all-free-download.com
 All others are built from scratch using photoshop.
 
 
-Sounds from:
+Sounds:
 <br>
 http://themushroomkingdom.net/media/smb/wav
