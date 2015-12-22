@@ -1,7 +1,7 @@
 # Game: Mario
 Created by: Anuj Agrawal (Email: anuja@clemson.edu)
 <br>
-Class website: http://people.cs.clemson.edu/~malloy/courses/416-2015/
+Class website: http://people.cs.clemson.edu/~malloy/courses/416-2015/index.html
 
 Final project for:
 <br>
