@@ -33,7 +33,7 @@ Game Objective:
 Mario wins after colliding with the tropy at the end of the game.
 
 
-Resources:
+## Resources:
 
 Sprites:
 
