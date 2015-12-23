@@ -11,7 +11,7 @@ Created using C++ and SDL
 
 ## Demo:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lzHiHssj1jk" target="_blank"><img src="http://img.youtube.com/vi/lzHiHssj1jk/0.jpg" alt="MARIO" border="10"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=X5NrcF2mrLo" target="_blank"><img src="http://img.youtube.com/vi/X5NrcF2mrLo/0.jpg" alt="MARIO" border="10"/></a>
 
 ## Project description:
 
