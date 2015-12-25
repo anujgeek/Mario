@@ -30,7 +30,7 @@ Restart - F2. I just respotion Mario and set its XVelocity to 0;
 GodMode can be toggled using F1 key. (I disable the collision detection with enemies)
 
 Game Objective:
-Mario wins after colliding with the tropy at the end of the game.
+Mario wins after colliding with the trophy at the end of the game.
 
 
 ## Resources:
