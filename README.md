@@ -1,4 +1,4 @@
-# Game: Mario
+# Mario
 Created by: Anuj Agrawal (Website: http://www.anujgeek.com/)
 <br>
 Class website: http://people.cs.clemson.edu/~malloy/courses/416-2015/index.html
