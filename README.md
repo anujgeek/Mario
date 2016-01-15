@@ -7,7 +7,9 @@ Final project for:
 <br>
 Clemson University - CpSc 6160 - Data-driven 2D Game Development
 <br>
-Created using C++ and SDL
+Created using:
+<br>
+FrontEnd: C++ and SDL
 
 ## Demo:
 
